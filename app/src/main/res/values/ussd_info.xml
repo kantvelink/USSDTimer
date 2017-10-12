@@ -10,7 +10,7 @@
 	<item>
 		{\"title\":\"1 day 600MB x3\",
 		\"description\":\"Triple bundle 1 day 600MB\",
-		\"code\":\"*133*1*1*1*6*1#\"
+		\"code\":\"*133*1*1*1*6*1*1#\"
 		}
 	</item>
 	<item>
@@ -22,7 +22,7 @@
 	<item>
 		{\"title\":\"1 day 600MB x3 Router\",
 		\"description\":\"1 day 600MB x3 on router\",
-		\"code\":\"*#112*contact#\"
+		\"code\":\"*133*1*2*contact*1*6*1#\"
 		}
 	</item>
 	<!--<item>
