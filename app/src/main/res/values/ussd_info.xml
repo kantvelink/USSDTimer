@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="ussdcodes">
+	<item>
+		{\"title\":\"Airtime Balance\",
+		\"description\":\"Africell Airtime Balance\",
+		\"code\":\"*131#\"
+		}
+	</item>
+	<item>
+		{\"title\":\"1 day 600MB x3\",
+		\"description\":\"Triple bundle 1 day 600MB\",
+		\"code\":\"*133*1*1*1*6*1#\"
+		}
+	</item>
+	<item>
+		{\"title\":\"Data Balance\",
+		\"description\":\"Data balance on this device\",
+		\"code\":\"*133*9#\"
+		}
+	</item>
+	<item>
+		{\"title\":\"1 day 600MB x3 Router\",
+		\"description\":\"1 day 600MB x3 on router\",
+		\"code\":\"*#112*contact#\"
+		}
+	</item>
+	<!--<item>
+		{\"title\":\"Lock contact\",
+		\"description\":\"The description of this ussd code.\",
+		\"code\":\"*#122*02*contact#\"
+		}
+	</item>-->
+</array>
+<string name="prefix">+256</string>
+</resources>
